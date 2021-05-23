@@ -18,10 +18,10 @@
         <select name="caso">
             <option value="1">Reais para Dólar</option>
             <option value="2">Dólar para Reais</option>
-            <option name="caso" value="3">Dólar para Euro</option>
-            <option name="caso" value="4">Euro para Dólar</option>
-            <option name="caso" value="5">Euro para Reais</option>
-            <option name="caso" value="6">Reais para Euro</option>
+            <option value="3">Dólar para Euro</option>
+            <option value="4">Euro para Dólar</option>
+            <option value="5">Euro para Reais</option>
+            <option value="6">Reais para Euro</option>
         </select>
         <input type="submit" name="convert" value= "Converter">
         </form>
